@@ -1,6 +1,3 @@
-Here’s a clean and professional `README.md` for your SHL Assessment Recommendation System:
-
----
 
 # 🚀 SHL Assessment Recommendation System
 
