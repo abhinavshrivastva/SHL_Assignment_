@@ -3,8 +3,12 @@ faiss-cpu
 sentence-transformers
 together
 fastapi 
-uvicorn 
+uvicorn[standard]
 pydantic
 streamlit
 bs4
-dotenv
+python-dotenv
+fastapi
+transformers
+sentence-transformers
+requests
