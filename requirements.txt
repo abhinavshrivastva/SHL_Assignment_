@@ -1,0 +1,10 @@
+pandas
+faiss-cpu
+sentence-transformers
+together
+fastapi 
+uvicorn 
+pydantic
+streamlit
+bs4
+dotenv
